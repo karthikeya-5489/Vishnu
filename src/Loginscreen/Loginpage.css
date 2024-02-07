@@ -1,0 +1,90 @@
+/* LoginPage.css */
+.text{
+    color: #fff!important;
+    font-size: 48px;
+    font-family: Roboto Condensed,sans-serif;
+    font-weight: 400!important;
+    line-height: 0%;
+    max-width: 50%;
+    min-width: 50%;
+    overflow: visible;
+    padding: 0 0 15px 0;
+    position: relative;
+    text-overflow: ellipsis;
+    width: auto;
+    white-space: nowrap;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+.image{
+    height: 80px;
+    display: flex;
+}
+.top-page{
+    background-color:#20c997;
+    height: 80px;
+    display: flex;
+}
+.login-container {
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+    margin-top: 30px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #454343;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 350px;
+  }
+  
+  button:hover {
+    background-color:  #4CAF50;
+  }
+  
+  .signup-link {
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .signup-link a {
+    text-decoration: none;
+    color: #4CAF50;
+  }
+  
+  .signup-link a:hover {
+    text-decoration: underline;
+  }
+.bottom-page{
+    margin-top: 15px;
+    background-color: grey;
+    height: 230px;
+    color: white;
+}
+
+  
+  

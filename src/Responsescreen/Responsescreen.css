@@ -1,0 +1,27 @@
+.radio-option{
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.option-button{
+    margin-top: 10px;
+    background-color: black;
+}
+.option-button:hover{
+    background-color: rgb(61, 61, 61);
+}
+select{
+    border-radius: 26px;
+    height: 30px;
+    border-width: medium;
+    border-color: black;
+}
+.label{
+    margin-top: 35px;
+    font-family: monospace;
+}
+.logout-button{
+    border-radius: 20px;
+    width: 70px;
+}
